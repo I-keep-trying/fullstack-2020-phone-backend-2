@@ -56,7 +56,7 @@ let persons = [
 ];
 
 app.get("/", (req, res) => {
-  res.send("<h1>Hello World!</h1>");
+  res.send("<h1>Phone Backend - Hello World!</h1>");
 });
 
 app.get("/api/info", (req, res) => {

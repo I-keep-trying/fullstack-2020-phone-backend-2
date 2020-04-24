@@ -1,4 +1,4 @@
-https://vast-temple-80178.herokuapp.com/api/persons
+https://immense-scrubland-41741.herokuapp.com/
 Steps to deploy:
 
 1. copy `build` directory from frontend to root of backend
